@@ -15,28 +15,52 @@ Sample Test Run:
 Input:
 
 10
+
 30
+
 4
+
 5
+
 2
+
 100
+
 9
+
 0
 
+
 Output:
+
 Unordered linked list:
+
 10
+
 30
+
 4
+
 5
+
 2
+
 100
+
 9
+
 Ordered linked list:
+
 2
+
 4
+
 5
+
 9
+
 10
+
 30
+
 100
